@@ -98,5 +98,5 @@ The final stable binary is pre-compiled and ready for deployment.
 <p align="center">
   <b>Developed with ❤️ by mkaf7h</b><br>
   <i>"The silence before the strike."</i><br>
-  <a href="https://github.com/mkaf7h">Github</a> • <a href="https://discord.gg/">Discord</a>
+  <a href="https://github.com/Mkaf7hDv0">Github</a> • <a href="https://discord.gg/TwRd2ZeE">Discord</a>
 </p>
