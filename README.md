@@ -40,9 +40,9 @@
 
 ### 🛠️ Building from Source / بناء الأداة 
 > [!NOTE]
-> **English:** Due to GitHub's file size limits (25MB), the pre-compiled standalone binary cannot be hosted directly in the repository. Please build it from source using the command below.
+> **:** Due to GitHub's file size limits (25MB), the pre-compiled standalone binary cannot be hosted directly in the repository. Please build it from source using the command below.
 > 
-> **بالعربية:** نظرًا لقيود GitHub على حجم الملفات (25 ميجابايت)، لا يمكن رفع ملف الـ EXE الجاهز مباشرة هنا. يرجى بناء الأداة بنفسك باستخدام الأمر التالي:
+> **:** نظرًا لقيود GitHub على حجم الملفات (25 ميجابايت)، لا يمكن رفع ملف الـ EXE الجاهز مباشرة هنا. يرجى بناء الأداة بنفسك باستخدام الأمر التالي:
 
 1. Clone the repository.
 2. Open your terminal in the project folder.
