@@ -36,6 +36,24 @@
 - <b>Deep ID Brute:</b> Iterative scanning (1-100) for hidden vulnerable parameters.
 </details>
 
+##  Getting Started / ابدأ الآن
+
+### 🛠️ Building from Source / بناء الأداة 
+> [!NOTE]
+> **English:** Due to GitHub's file size limits (25MB), the pre-compiled standalone binary cannot be hosted directly in the repository. Please build it from source using the command below.
+> 
+> **بالعربية:** نظرًا لقيود GitHub على حجم الملفات (25 ميجابايت)، لا يمكن رفع ملف الـ EXE الجاهز مباشرة هنا. يرجى بناء الأداة بنفسك باستخدام الأمر التالي:
+
+1. Clone the repository.
+2. Open your terminal in the project folder.
+3. Run this command to generate the **Standalone EXE**:
+   ```bash
+   dotnet publish -c Release -r win-x64 --self-contained true /p:PublishSingleFile=true /p:PublishReadyToRun=false /p:DebugType=none /p:DebugSymbols=false
+   ```
+4. Find your binary in: `bin/Release/net8.0-windows/win-x64/publish/`
+
+
+
 <details>
 <summary><b> Logic & Discovery (BOLA / IDOR)</b></summary>
 <br>
