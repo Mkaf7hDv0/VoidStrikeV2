@@ -38,7 +38,7 @@
 
 ##  Getting Started / ابدأ الآن
 
-### 🛠️ Building from Source / بناء الأداة 
+###  Building from Source / بناء الأداة 
 > [!NOTE]
 > **:** Due to GitHub's file size limits (25MB), the pre-compiled standalone binary cannot be hosted directly in the repository. Please build it from source using the command below.
 > 
