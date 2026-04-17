@@ -26,7 +26,7 @@
 
 ---
 
-##  Key Features / المميزات الأسطورية
+##  Key Features / المميزات 
 
 <details open>
 <summary><b> Advanced Injection Engines (SQLi / XSS)</b></summary>
