@@ -44,6 +44,7 @@
 > 
 > **:** نظرًا لقيود GitHub على حجم الملفات (25 ميجابايت)، لا يمكن رفع ملف الـ EXE الجاهز مباشرة هنا. يرجى بناء الأداة بنفسك باستخدام الأمر التالي:
 
+
 1. Clone the repository.
 2. Open your terminal in the project folder.
 3. Run this command to generate the **Standalone EXE**:
